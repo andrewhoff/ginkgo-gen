@@ -1,0 +1,3 @@
+package: github.com/andrewhoff/ginkgo-gen
+import:
+- package: github.com/fatih/color
